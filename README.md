@@ -2,9 +2,9 @@
 
 A comfy, dark theme for the Zed editor!
 
-[Pumori Preview 1](https://github.com/Bamboooz/pumori-theme/blob/main/pumori-preview-1.png?raw=true)
-[Pumori Preview 2](https://github.com/Bamboooz/pumori-theme/blob/main/pumori-preview-2.png?raw=true)
-[Pumori Preview 3](https://github.com/Bamboooz/pumori-theme/blob/main/pumori-preview-3.png?raw=true)
+<img alt="Pumori Preview 1" src="https://github.com/Bamboooz/pumori-theme/blob/main/pumori-preview-1.png?raw=true" />
+<img alt="Pumori Preview 2" src="https://github.com/Bamboooz/pumori-theme/blob/main/pumori-preview-2.png?raw=true" />
+<img alt="Pumori Preview 3" src="https://github.com/Bamboooz/pumori-theme/blob/main/pumori-preview-3.png?raw=true" />
 
 # Installation
 
